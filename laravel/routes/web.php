@@ -14,3 +14,19 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/webapps', function () {
+    return view('webapps');
+});
+
+Route::get('/marketing', function () {
+    return view('marketing');
+});
+
+Route::get('/podcasts', function () {
+    return view('podcasts');
+});
+
+Route::get('/spots', function () {
+    return view('spots');
+});
