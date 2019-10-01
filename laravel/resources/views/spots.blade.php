@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Tuxint Media
+                    Tuxint Media can put a unique voice on your commercial audio project - be it a 15 second spot or narrating a feature length documentary.
                 </div>
 
                 <div class="links">

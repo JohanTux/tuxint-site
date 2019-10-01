@@ -81,12 +81,12 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Tuxint Media
+                    Tuxint Media can produce your podcast - like <a href="https://dfroundtable.com">Dwarf Fortress Roundtable</a>
                 </div>
 
                 <div class="links">
                     <a href="/spots">Commercial Spots</a>
-                    <a href="/podcasts">Podcast Production</a>
+                    <a href="mailto:johantux@gmail.com">Contact Us</a>
                     <a href="/marketing">Web Sites</a>
                     <a href="/webapps">Custom Web Apps</a>
                 </div>

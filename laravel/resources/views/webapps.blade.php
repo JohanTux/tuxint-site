@@ -81,14 +81,14 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Tuxint Media
+                    We'll build custom WebApps like <a href="https://habitgrams.com">Habitgrams</a>
                 </div>
 
                 <div class="links">
                     <a href="/spots">Commercial Spots</a>
                     <a href="/podcasts">Podcast Production</a>
                     <a href="/marketing">Web Sites</a>
-                    <a href="/webapps">Custom Web Apps</a>
+                    <a href="mailto:johantux@gmail.com"><strong>Contact Us</strong></a>
                 </div>
             </div>
         </div>

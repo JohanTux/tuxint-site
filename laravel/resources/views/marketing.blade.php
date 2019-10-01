@@ -81,13 +81,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Tuxint Media
+                    Tuxint Media can build your business or marketing website, like <a href=https://zgatecrashers.com>Z-GateCrashers</a>
                 </div>
 
                 <div class="links">
                     <a href="/spots">Commercial Spots</a>
                     <a href="/podcasts">Podcast Production</a>
-                    <a href="/marketing">Web Sites</a>
+                    <a href="mailto:johantux@gmail.com"><strong>Contact Us</strong></a>
                     <a href="/webapps">Custom Web Apps</a>
                 </div>
             </div>
