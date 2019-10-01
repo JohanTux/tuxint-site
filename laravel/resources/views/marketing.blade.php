@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Tuxint</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -81,9 +81,12 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Tuxint Media can build your business or marketing website, like <a href=https://zgatecrashers.com>Z-GateCrashers</a>
+                    Marketing
                 </div>
-
+                <div class="body m-b-md">
+                    Tuxint can build your business or marketing website, like <a href=https://zgatecrashers.com>Z-GateCrashers</a>
+                </div>
+                
                 <div class="links">
                     <a href="/spots">Commercial Spots</a>
                     <a href="/podcasts">Podcast Production</a>
